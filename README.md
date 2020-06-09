@@ -1,7 +1,7 @@
 # hanspe_check
 
 ## Description
-MSスタイル日本語半角スペースチェック
+MSスタイルの日本語半角スペースチェックツール。スタイル違反箇所を赤で表示します。
 
 ## Screen image
 ![image](https://user-images.githubusercontent.com/10069642/83829999-21232e80-a71f-11ea-8e7f-7519f7cf4a40.png)  
