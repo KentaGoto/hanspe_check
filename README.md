@@ -17,3 +17,9 @@ MSスタイルの日本語半角スペースチェックツール。スタイル
 
 ## Requires
 - Windows
+
+## License  
+MIT
+
+## Author  
+Kenta Goto
