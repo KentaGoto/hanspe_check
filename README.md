@@ -15,7 +15,7 @@ MSスタイルの日本語半角スペースチェックツール。スタイル
 **実行結果例:**  
 ![image](https://user-images.githubusercontent.com/10069642/83830201-87a84c80-a71f-11ea-94e0-7018626abdab.png)  
 
-## Requires
+## Requirements
 - Windows
 
 ## License  
