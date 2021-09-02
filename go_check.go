@@ -45,7 +45,7 @@ func main() {
 		margin-right: auto;
 		margin-left: auto;
 		width: 1200px;
-		font-family: 'Arial', 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'MS PGothic', 'ＭＳ Ｐゴシック', sans-serif;
+		font-family: sans-serif;
 	}
 
 	.table {
